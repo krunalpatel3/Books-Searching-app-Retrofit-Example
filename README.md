@@ -15,6 +15,4 @@ https://github.com/akueisara/android-basics-nanodegree-by-google
 
 ## Screenshots:-
 
-![](https://github.com/krunalpatel3/Books-Searching-app-Retrofit-Example/blob/master/Screenshots/Screenshot_20180807-180051.png)
-
-![](https://github.com/krunalpatel3/Books-Searching-app-Retrofit-Example/blob/master/Screenshots/Screenshot_20180807-180139.png)
+<img src="Screenshots/Screenshot_20180807-180051.png" width="250" height="450" /> <img src="Screenshots/Screenshot_20180807-180139.png" width="250" height="450" />
